@@ -2,7 +2,6 @@ https://cloud.dwavesys.com/leap/
 http://algassert.com/quirk
 https://quantumexperience.ng.bluemix.net/qx/community
 
-
 https://www.dwavesys.com/tutorials/background-reading-series/quantum-computing-primer#h1-0
 https://docs.microsoft.com/en-us/quantum/quantum-concepts-1-intro?view=qsharp-preview
 https://quantumexperience.ng.bluemix.net/proxy/tutorial/full-user-guide/000-FAQ/000-Frequently_Asked_Questions.html
